@@ -1,6 +1,6 @@
 # WhiteBoard
 
-Example how to use : 
+Example : 
 
 ./white_board.py circuit.jpeg circuit.png
 
